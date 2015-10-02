@@ -1,2 +1,1 @@
-# hello-world
-just practising
+just a description.. othing else
